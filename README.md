@@ -1,4 +1,6 @@
 # C Compiler
+The AST definition can be found in AST.md
+The formal grammar can be found in grammar.md the grammar in this project is in EBNF notation (more information on EBNF notation here: https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form).
 
 ## Requirements
 You need to be running on x86_64 or AMD64 architecture. If you are using Windows make sure you are using WSL.
